@@ -5,10 +5,11 @@
 
 git clone https://github.com/balnedev/fizzbuzz.git
 
-#change to the directory 
+#change to the directory
+
 cd fizzbuzz
 
-#installing the module
+#install the modules
 
 npm install
 
