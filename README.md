@@ -3,10 +3,10 @@
 
 #clone the repository
 
-git clone https://github.com/balnedev/fizzbuzztest.git
+git clone https://github.com/balnedev/fizzbuzz.git
 
 #change to the directory 
-cd fizzbuzztest
+cd fizzbuzz
 
 #installing the module
 
